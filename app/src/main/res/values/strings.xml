@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stack views</string>
+    <string name="swipe_up">Swipe up</string>
+    <string name="first_view_title">First view</string>
+    <string name="first_view_button">Open second view</string>
+    <string name="second_view_title">Second view</string>
+    <string name="second_view_button">Open Third view</string>
+
+
+    <string name="third_view_title">Third view</string>
+    <string name="third_view_button">Open Fourth view</string>
+    <string name="fourth_view_title">Fourth view</string>
+</resources>

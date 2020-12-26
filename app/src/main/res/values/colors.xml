@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="main_screen_background">#6200EE</color>
+    <color name="first_bottom_sheet_background">#720D5D</color>
+    <color name="second_bottom_sheet_background">#F9AA33</color>
+    <color name="third_bottom_background">#E30425</color>
+    <color name="button_background_color">#000000</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="view_text_color">#FFFFFF</color>
+</resources>
